@@ -25,7 +25,7 @@ define('DB_USER', 'sarburola');
 define('DB_PASSWORD', 'sarburola');
 
 /** Host de MySQL (es muy probable que no necesites cambiarlo) */
-define('DB_HOST', 'mississippi.ic-itcr.ac.cr');
+define('DB_HOST', 'mississippi.ic-itcr.ac.cr:3306');
 
 /** Codificación de caracteres para la base de datos. */
 define('DB_CHARSET', 'utf8');
